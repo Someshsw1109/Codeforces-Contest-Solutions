@@ -1,0 +1,10 @@
+2025-10-19T17:46:54.486Z INFO SharedStateManager initialized
+2025-10-19T17:46:54.487Z INFO Is remote: false
+2025-10-19T17:46:54.488Z INFO Starting Local. Installation path: undefined
+2025-10-19T17:46:54.488Z INFO [MainProvider] Creating new MainProvider instance...
+2025-10-19T17:46:54.490Z INFO Installation path exists: c:\Users\somes\OneDrive\Desktop\Codeforces Contest Solutions\Codeforces Round 1060 (Div-2)
+2025-10-19T17:46:54.490Z INFO Initializing database with URL: file:C:\Users\somes\AppData\Local\Temp\pythagora-temp\pythagora.db
+2025-10-19T17:46:54.503Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-10-19T17:46:54.503Z INFO Database initialized successfully
+2025-10-19T17:46:54.504Z INFO [Migration] Checking for database migration...
+2025-10-19T17:46:54.812Z INFO [Migration] No migration needed
